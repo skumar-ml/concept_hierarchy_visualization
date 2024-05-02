@@ -7,6 +7,15 @@ const nodeWidth = 25;
 const verticalSeparation = 40;
 const horizontalSeparation = 10;
 
+document.addEventListener("DOMContentLoaded", function() {
+    const pageName = window.location.pathname.split('/').pop().split('.')[0]; // This gets 'unsupervised' or 'supervised'
+    basePath = `${pageName}/`; // Creates a path like 'unsupervised/' or 'supervised/'
+    initializeTree();
+
+});
+
+
+function initializeTree() {
 // Make sure there is no margin or padding that could offset the SVG element
 d3.select("body").style("margin", "0").style("padding", "0");
 d3.select("html").style("margin", "0").style("padding", "0");
@@ -31,7 +40,8 @@ const tooltip = d3.select("body").append("div")
     .style("visibility", "hidden");
 
 // Load the tree data
-d3.json("data/tree.json").then(function(data) {
+console.log(`${basePath}/data/tree.json`);
+d3.json(`${basePath}/data/tree.json`).then(function(data) {
     const root = d3.hierarchy(data);
     const treeLayout = d3.tree()
     .nodeSize([nodeWidth+horizontalSeparation, nodeHeight+verticalSeparation])  // [width, height] of each node]
@@ -63,7 +73,7 @@ d3.json("data/tree.json").then(function(data) {
                    .style("left", (event.pageX + 20) + "px")
                    .style("top", (event.pageY + 20) + "px");
     
-            displayImagesForNode(`images/node_${d.data.id}`);
+            displayImagesForNode(`images/node_${d.data.id}`, tooltip);
         })
         .on("mousemove", function(event) {
             tooltip.style("left", (event.pageX + 20) + "px")
@@ -82,35 +92,35 @@ d3.json("data/tree.json").then(function(data) {
     .attr("font-family", "sans-serif")
     .attr("font-size", "10px")
     .attr("fill", "black");
+});
+}
     
-        function displayImagesForNode(nodePath) {
-            tooltip.html(''); // Clear existing content
-            tooltip.style('display', 'inline-block'); // Set display to inline-block
-            const maxImages = 10; // Assuming up to 10 images per node as specified
-            const imagesPerRow = 5; // Number of images per row
-            const rowWidth = imagesPerRow * 110; // Calculate row width to hold 5 images considering the margins
-            tooltip.style('max-width', rowWidth + 'px'); // Set the maximum width of the tooltip
-        
-            let imageCounter = 0; // Keep track of how many images have been added to the current row
-            let rowDiv = tooltip.append('div').style('white-space', 'nowrap'); // Create a row and prevent wrapping
-        
-            for (let i = 1; i <= maxImages; i++) {
-                let img = new Image();
-                img.src = `${nodePath}/image${i}.jpg`;
-                img.style.maxWidth = '100px';
-                img.style.margin = '5px';
-                img.onerror = function() {
-                    this.style.display = 'none'; // Hide image on error
-                };
-                img.onload = function() {
-                    imageCounter++;
-                    if (imageCounter > imagesPerRow) { // When the row is full, create a new row
-                        imageCounter = 1; // Reset counter for the new row
-                        rowDiv = tooltip.append('div').style('white-space', 'nowrap'); // Create a new row and prevent wrapping
-                    }
-                    rowDiv.node().appendChild(img); // Append image to the current row
-                };
+function displayImagesForNode(nodePath, tooltip) {
+    tooltip.html(''); // Clear existing content
+    tooltip.style('display', 'inline-block'); // Set display to inline-block
+    const maxImages = 10; // Assuming up to 10 images per node as specified
+    const imagesPerRow = 5; // Number of images per row
+    const rowWidth = imagesPerRow * 110; // Calculate row width to hold 5 images considering the margins
+    tooltip.style('max-width', rowWidth + 'px'); // Set the maximum width of the tooltip
+
+    let imageCounter = 0; // Keep track of how many images have been added to the current row
+    let rowDiv = tooltip.append('div').style('white-space', 'nowrap'); // Create a row and prevent wrapping
+
+    for (let i = 1; i <= maxImages; i++) {
+        let img = new Image();
+        img.src = `${basePath}${nodePath}/image${i}.jpg`;
+        img.style.maxWidth = '100px';
+        img.style.margin = '5px';
+        img.onerror = function() {
+            this.style.display = 'none'; // Hide image on error
+        };
+        img.onload = function() {
+            imageCounter++;
+            if (imageCounter > imagesPerRow) { // When the row is full, create a new row
+                imageCounter = 1; // Reset counter for the new row
+                rowDiv = tooltip.append('div').style('white-space', 'nowrap'); // Create a new row and prevent wrapping
             }
-        }
-        
-    })        
+            rowDiv.node().appendChild(img); // Append image to the current row
+        };
+    }
+}
