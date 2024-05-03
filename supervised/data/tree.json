@@ -1,0 +1,1140 @@
+{
+    "id": 384648,
+    "name": "node_384648",
+    "value": 3498.6971263871696,
+    "centroid": null,
+    "children": [
+        {
+            "id": 384646,
+            "name": "node_384646",
+            "value": 3282.820942843841,
+            "centroid": null,
+            "children": [
+                {
+                    "id": 384642,
+                    "name": "node_384642",
+                    "value": 2819.581978089889,
+                    "centroid": null,
+                    "children": [
+                        {
+                            "id": 384624,
+                            "name": "node_384624",
+                            "value": 852.8522714408005,
+                            "centroid": 8,
+                            "children": [
+                                {
+                                    "id": 384555,
+                                    "name": "node_384555",
+                                    "value": 395.51184480263913,
+                                    "centroid": null
+                                },
+                                {
+                                    "id": 384606,
+                                    "name": "node_384606",
+                                    "value": 598.5463317145388,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384539,
+                                            "name": "node_384539",
+                                            "value": 373.55171805792787,
+                                            "centroid": null
+                                        },
+                                        {
+                                            "id": 384596,
+                                            "name": "node_384596",
+                                            "value": 535.662374610156,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384549,
+                                                    "name": "node_384549",
+                                                    "value": 387.8257713401878,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384550,
+                                                    "name": "node_384550",
+                                                    "value": 392.5007050349566,
+                                                    "centroid": null
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 384635,
+                            "name": "node_384635",
+                            "value": 1399.2756798634662,
+                            "centroid": 2,
+                            "children": [
+                                {
+                                    "id": 384586,
+                                    "name": "node_384586",
+                                    "value": 470.01246757720946,
+                                    "centroid": null
+                                },
+                                {
+                                    "id": 384626,
+                                    "name": "node_384626",
+                                    "value": 970.5062780572719,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384611,
+                                            "name": "node_384611",
+                                            "value": 665.2074184888968,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384557,
+                                                    "name": "node_384557",
+                                                    "value": 406.99524390519036,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384445,
+                                                            "name": "node_384445",
+                                                            "value": 264.80122030432165,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384501,
+                                                            "name": "node_384501",
+                                                            "value": 316.62904796301336,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 384581,
+                                                    "name": "node_384581",
+                                                    "value": 440.95573357309877,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384433,
+                                                            "name": "node_384433",
+                                                            "value": 259.68022819238007,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384506,
+                                                            "name": "node_384506",
+                                                            "value": 323.9337285724128,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384614,
+                                            "name": "node_384614",
+                                            "value": 702.4270087688654,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384591,
+                                                    "name": "node_384591",
+                                                    "value": 514.727155231197,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384525,
+                                                            "name": "node_384525",
+                                                            "value": 342.23375870337884,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384553,
+                                                            "name": "node_384553",
+                                                            "value": 394.8231867259427,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384470,
+                                                                    "name": "node_384470",
+                                                                    "value": 281.09727094428587,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384475,
+                                                                    "name": "node_384475",
+                                                                    "value": 284.0610975734434,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 384597,
+                                                    "name": "node_384597",
+                                                    "value": 537.259832538245,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384514,
+                                                            "name": "node_384514",
+                                                            "value": 327.6602385958707,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384585,
+                                                            "name": "node_384585",
+                                                            "value": 465.24599707185286,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384457,
+                                                                    "name": "node_384457",
+                                                                    "value": 274.3977291338796,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384533,
+                                                                    "name": "node_384533",
+                                                                    "value": 353.51344974063926,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 384643,
+                    "name": "node_384643",
+                    "value": 2976.4498207733936,
+                    "centroid": null,
+                    "children": [
+                        {
+                            "id": 384636,
+                            "name": "node_384636",
+                            "value": 1418.1762875591583,
+                            "centroid": 0,
+                            "children": [
+                                {
+                                    "id": 384618,
+                                    "name": "node_384618",
+                                    "value": 739.0956701675375,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384491,
+                                            "name": "node_384491",
+                                            "value": 305.5417785036907,
+                                            "centroid": null
+                                        },
+                                        {
+                                            "id": 384563,
+                                            "name": "node_384563",
+                                            "value": 416.320803083653,
+                                            "centroid": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 384629,
+                                    "name": "node_384629",
+                                    "value": 1121.6989402454913,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384600,
+                                            "name": "node_384600",
+                                            "value": 554.3977684057553,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384535,
+                                                    "name": "node_384535",
+                                                    "value": 356.9904574901496,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384571,
+                                                    "name": "node_384571",
+                                                    "value": 433.62331501582025,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384524,
+                                                            "name": "node_384524",
+                                                            "value": 340.9445004084136,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384537,
+                                                            "name": "node_384537",
+                                                            "value": 365.58477061981347,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384627,
+                                            "name": "node_384627",
+                                            "value": 1017.4423347344185,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384592,
+                                                    "name": "node_384592",
+                                                    "value": 518.3832017883665,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384609,
+                                                    "name": "node_384609",
+                                                    "value": 631.4078096618725,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384545,
+                                                            "name": "node_384545",
+                                                            "value": 381.16639458723245,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384464,
+                                                                    "name": "node_384464",
+                                                                    "value": 277.26230037923517,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384523,
+                                                                    "name": "node_384523",
+                                                                    "value": 340.84927911220177,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": 384604,
+                                                            "name": "node_384604",
+                                                            "value": 570.1860798091182,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384489,
+                                                                    "name": "node_384489",
+                                                                    "value": 305.51701461692255,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384544,
+                                                                    "name": "node_384544",
+                                                                    "value": 380.06555971842107,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384499,
+                                                                            "name": "node_384499",
+                                                                            "value": 311.7579486649226,
+                                                                            "centroid": null
+                                                                        },
+                                                                        {
+                                                                            "id": 384504,
+                                                                            "name": "node_384504",
+                                                                            "value": 321.1886314673082,
+                                                                            "centroid": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 384641,
+                            "name": "node_384641",
+                            "value": 2495.121432961334,
+                            "centroid": null,
+                            "children": [
+                                {
+                                    "id": 384630,
+                                    "name": "node_384630",
+                                    "value": 1153.86470091833,
+                                    "centroid": 6,
+                                    "children": [
+                                        {
+                                            "id": 384590,
+                                            "name": "node_384590",
+                                            "value": 508.6075884251828,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384526,
+                                                    "name": "node_384526",
+                                                    "value": 345.47351759139286,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384536,
+                                                    "name": "node_384536",
+                                                    "value": 361.112701856931,
+                                                    "centroid": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384615,
+                                            "name": "node_384615",
+                                            "value": 713.6312646790149,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384573,
+                                                    "name": "node_384573",
+                                                    "value": 433.96700747062647,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384473,
+                                                            "name": "node_384473",
+                                                            "value": 283.7092959076479,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384508,
+                                                            "name": "node_384508",
+                                                            "value": 324.3709606962726,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 384584,
+                                                    "name": "node_384584",
+                                                    "value": 462.62787641446715,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384497,
+                                                            "name": "node_384497",
+                                                            "value": 310.48454462804955,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384554,
+                                                            "name": "node_384554",
+                                                            "value": 395.043880191407,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 384640,
+                                    "name": "node_384640",
+                                    "value": 2428.4165887932904,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384621,
+                                            "name": "node_384621",
+                                            "value": 782.9113288450322,
+                                            "centroid": 7,
+                                            "children": [
+                                                {
+                                                    "id": 384556,
+                                                    "name": "node_384556",
+                                                    "value": 405.69897196425273,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384602,
+                                                    "name": "node_384602",
+                                                    "value": 563.168765532727,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384454,
+                                                            "name": "node_384454",
+                                                            "value": 272.07274862724717,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384551,
+                                                            "name": "node_384551",
+                                                            "value": 392.9739381513915,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384448,
+                                                                    "name": "node_384448",
+                                                                    "value": 266.8951752218068,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384481,
+                                                                    "name": "node_384481",
+                                                                    "value": 292.2818920126367,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384639,
+                                            "name": "node_384639",
+                                            "value": 2137.126049000988,
+                                            "centroid": 1,
+                                            "children": [
+                                                {
+                                                    "id": 384633,
+                                                    "name": "node_384633",
+                                                    "value": 1292.9968613187086,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384608,
+                                                            "name": "node_384608",
+                                                            "value": 609.7527932506775,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384564,
+                                                                    "name": "node_384564",
+                                                                    "value": 418.5152607777565,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384576,
+                                                                    "name": "node_384576",
+                                                                    "value": 436.07551639663865,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384507,
+                                                                            "name": "node_384507",
+                                                                            "value": 324.13925916314247,
+                                                                            "centroid": null
+                                                                        },
+                                                                        {
+                                                                            "id": 384531,
+                                                                            "name": "node_384531",
+                                                                            "value": 349.8253862016567,
+                                                                            "centroid": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": 384623,
+                                                            "name": "node_384623",
+                                                            "value": 842.6201489338767,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384570,
+                                                                    "name": "node_384570",
+                                                                    "value": 429.46122784175816,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384471,
+                                                                            "name": "node_384471",
+                                                                            "value": 281.44145160813366,
+                                                                            "centroid": null
+                                                                        },
+                                                                        {
+                                                                            "id": 384548,
+                                                                            "name": "node_384548",
+                                                                            "value": 387.61603021334963,
+                                                                            "centroid": null
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "id": 384613,
+                                                                    "name": "node_384613",
+                                                                    "value": 693.3730548503613,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384565,
+                                                                            "name": "node_384565",
+                                                                            "value": 423.1579623977684,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384438,
+                                                                                    "name": "node_384438",
+                                                                                    "value": 261.7121649042438,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384462,
+                                                                                    "name": "node_384462",
+                                                                                    "value": 276.7416953749302,
+                                                                                    "centroid": null
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": 384598,
+                                                                            "name": "node_384598",
+                                                                            "value": 538.2665048579047,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384496,
+                                                                                    "name": "node_384496",
+                                                                                    "value": 310.33700015062465,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384518,
+                                                                                    "name": "node_384518",
+                                                                                    "value": 330.8580836689195,
+                                                                                    "centroid": null
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 384637,
+                                                    "name": "node_384637",
+                                                    "value": 1481.7874422346374,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384582,
+                                                            "name": "node_384582",
+                                                            "value": 441.48168037456975,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384436,
+                                                                    "name": "node_384436",
+                                                                    "value": 260.3270366386179,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384498,
+                                                                    "name": "node_384498",
+                                                                    "value": 310.6249556882396,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": 384631,
+                                                            "name": "node_384631",
+                                                            "value": 1182.1281184112277,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384617,
+                                                                    "name": "node_384617",
+                                                                    "value": 738.8699915792457,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384588,
+                                                                            "name": "node_384588",
+                                                                            "value": 497.8804459017808,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384484,
+                                                                                    "name": "node_384484",
+                                                                                    "value": 295.0271293432153,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384567,
+                                                                                    "name": "node_384567",
+                                                                                    "value": 426.3606891605904,
+                                                                                    "centroid": null
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": 384603,
+                                                                            "name": "node_384603",
+                                                                            "value": 564.9147393443571,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384521,
+                                                                                    "name": "node_384521",
+                                                                                    "value": 333.9649441063394,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384558,
+                                                                                    "name": "node_384558",
+                                                                                    "value": 408.3221463471543,
+                                                                                    "centroid": null
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "id": 384622,
+                                                                    "name": "node_384622",
+                                                                    "value": 816.981202047934,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384589,
+                                                                            "name": "node_384589",
+                                                                            "value": 506.11153597026464,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384512,
+                                                                                    "name": "node_384512",
+                                                                                    "value": 326.8413457785259,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384575,
+                                                                                    "name": "node_384575",
+                                                                                    "value": 435.81327778514117,
+                                                                                    "centroid": null,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 384487,
+                                                                                            "name": "node_384487",
+                                                                                            "value": 299.43167342985225,
+                                                                                            "centroid": null
+                                                                                        },
+                                                                                        {
+                                                                                            "id": 384542,
+                                                                                            "name": "node_384542",
+                                                                                            "value": 374.52024630201777,
+                                                                                            "centroid": null
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": 384612,
+                                                                            "name": "node_384612",
+                                                                            "value": 674.342025107647,
+                                                                            "centroid": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 384560,
+                                                                                    "name": "node_384560",
+                                                                                    "value": 411.3270879379907,
+                                                                                    "centroid": null
+                                                                                },
+                                                                                {
+                                                                                    "id": 384574,
+                                                                                    "name": "node_384574",
+                                                                                    "value": 434.9284232936557,
+                                                                                    "centroid": null
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 384647,
+            "name": "node_384647",
+            "value": 3392.522351761315,
+            "centroid": null,
+            "children": [
+                {
+                    "id": 384628,
+                    "name": "node_384628",
+                    "value": 1077.6817660770068,
+                    "centroid": 9,
+                    "children": [
+                        {
+                            "id": 384583,
+                            "name": "node_384583",
+                            "value": 442.9294264447862,
+                            "centroid": null
+                        },
+                        {
+                            "id": 384610,
+                            "name": "node_384610",
+                            "value": 659.907481721162,
+                            "centroid": null,
+                            "children": [
+                                {
+                                    "id": 384522,
+                                    "name": "node_384522",
+                                    "value": 339.2502542988361,
+                                    "centroid": null
+                                },
+                                {
+                                    "id": 384593,
+                                    "name": "node_384593",
+                                    "value": 520.7857970996449,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384422,
+                                            "name": "node_384422",
+                                            "value": 252.893029261865,
+                                            "centroid": null
+                                        },
+                                        {
+                                            "id": 384540,
+                                            "name": "node_384540",
+                                            "value": 374.0776861941098,
+                                            "centroid": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 384645,
+                    "name": "node_384645",
+                    "value": 3150.203520250099,
+                    "centroid": null,
+                    "children": [
+                        {
+                            "id": 384634,
+                            "name": "node_384634",
+                            "value": 1385.4995015256366,
+                            "centroid": 4,
+                            "children": [
+                                {
+                                    "id": 384572,
+                                    "name": "node_384572",
+                                    "value": 433.7107326766354,
+                                    "centroid": null
+                                },
+                                {
+                                    "id": 384625,
+                                    "name": "node_384625",
+                                    "value": 895.5693436176972,
+                                    "centroid": null,
+                                    "children": [
+                                        {
+                                            "id": 384587,
+                                            "name": "node_384587",
+                                            "value": 488.3084955032686,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384444,
+                                                    "name": "node_384444",
+                                                    "value": 264.5475649152451,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384561,
+                                                    "name": "node_384561",
+                                                    "value": 413.6398353895821,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384530,
+                                                            "name": "node_384530",
+                                                            "value": 349.59084476598673,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384541,
+                                                            "name": "node_384541",
+                                                            "value": 374.39208093463185,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384599,
+                                            "name": "node_384599",
+                                            "value": 543.9077599223729,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384516,
+                                                    "name": "node_384516",
+                                                    "value": 328.1240717162834,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384579,
+                                                    "name": "node_384579",
+                                                    "value": 438.7717355584447,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384441,
+                                                            "name": "node_384441",
+                                                            "value": 262.5077635083553,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384547,
+                                                            "name": "node_384547",
+                                                            "value": 385.72990620042043,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 384644,
+                            "name": "node_384644",
+                            "value": 3061.0553265072654,
+                            "centroid": null,
+                            "children": [
+                                {
+                                    "id": 384632,
+                                    "name": "node_384632",
+                                    "value": 1253.9825108355467,
+                                    "centroid": 3,
+                                    "children": [
+                                        {
+                                            "id": 384601,
+                                            "name": "node_384601",
+                                            "value": 558.8813128875278,
+                                            "centroid": null
+                                        },
+                                        {
+                                            "id": 384620,
+                                            "name": "node_384620",
+                                            "value": 779.4493374199889,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384509,
+                                                    "name": "node_384509",
+                                                    "value": 324.45161939482387,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384605,
+                                                    "name": "node_384605",
+                                                    "value": 591.1593897607887,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384502,
+                                                            "name": "node_384502",
+                                                            "value": 316.71836551679183,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384580,
+                                                            "name": "node_384580",
+                                                            "value": 439.17566878665946,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384455,
+                                                                    "name": "node_384455",
+                                                                    "value": 272.1698908819917,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384529,
+                                                                    "name": "node_384529",
+                                                                    "value": 349.26921594563385,
+                                                                    "centroid": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 384430,
+                                                                            "name": "node_384430",
+                                                                            "value": 256.69729103476925,
+                                                                            "centroid": null
+                                                                        },
+                                                                        {
+                                                                            "id": 384503,
+                                                                            "name": "node_384503",
+                                                                            "value": 320.23142706350785,
+                                                                            "centroid": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 384638,
+                                    "name": "node_384638",
+                                    "value": 1503.4820484615716,
+                                    "centroid": 5,
+                                    "children": [
+                                        {
+                                            "id": 384616,
+                                            "name": "node_384616",
+                                            "value": 737.7063769065824,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384568,
+                                                    "name": "node_384568",
+                                                    "value": 427.3018602989458,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384469,
+                                                            "name": "node_384469",
+                                                            "value": 280.83233353939613,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384500,
+                                                            "name": "node_384500",
+                                                            "value": 315.28249710099357,
+                                                            "centroid": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 384607,
+                                                    "name": "node_384607",
+                                                    "value": 602.6864405542032,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384488,
+                                                            "name": "node_384488",
+                                                            "value": 302.7742809318491,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384552,
+                                                            "name": "node_384552",
+                                                            "value": 394.62011093491753,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384463,
+                                                                    "name": "node_384463",
+                                                                    "value": 276.90508705851397,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384478,
+                                                                    "name": "node_384478",
+                                                                    "value": 287.3637135514894,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 384619,
+                                            "name": "node_384619",
+                                            "value": 766.1993907429888,
+                                            "centroid": null,
+                                            "children": [
+                                                {
+                                                    "id": 384594,
+                                                    "name": "node_384594",
+                                                    "value": 522.4382990067321,
+                                                    "centroid": null
+                                                },
+                                                {
+                                                    "id": 384595,
+                                                    "name": "node_384595",
+                                                    "value": 525.6412586726495,
+                                                    "centroid": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 384559,
+                                                            "name": "node_384559",
+                                                            "value": 410.24513226711645,
+                                                            "centroid": null
+                                                        },
+                                                        {
+                                                            "id": 384566,
+                                                            "name": "node_384566",
+                                                            "value": 425.5654865152473,
+                                                            "centroid": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 384451,
+                                                                    "name": "node_384451",
+                                                                    "value": 268.3098149844709,
+                                                                    "centroid": null
+                                                                },
+                                                                {
+                                                                    "id": 384459,
+                                                                    "name": "node_384459",
+                                                                    "value": 275.42561984983445,
+                                                                    "centroid": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
